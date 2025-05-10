@@ -1,26 +1,24 @@
 # Core dependencies
-streamlit>=1.24.0
-pandas>=1.5.0
-numpy>=1.21.0
-matplotlib>=3.5.0
-plotly>=5.13.0
-
-
-urllib3>=2.0.0
-python-dateutil>=2.8.2
+streamlit
+pandas
+numpy   
+matplotlib
+plotly
+urllib3
+python-dateutil
 
 # Data sources
-yfinance>=0.2.18
-alpaca-trade-api>=3.0.0
-kiteconnect>=4.1.0
-requests>=2.28.0
-curl-cffi>=0.5.0
-websockets>=10.0
+yfinance
+alpaca-trade-api
+kiteconnect
+requests
+curl-cffi
+websockets
 
 # UI and search
-streamlit-searchbox>=0.0.5
+streamlit-searchbox
 
 # Optimization and analysis
-optuna>=3.0.0
+optuna
 
 # Utilities
