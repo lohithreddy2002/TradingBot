@@ -5,4 +5,7 @@ matplotlib
 streamlit-searchbox
 optuna
 yfinance
-websockets>=10.0 # Ensure websockets is installed and is version 10.0 or higher
+websockets>=10.0 # Required by yfinance for live data functionality
+alpaca-trade-api # Required for Alpaca data source
+kiteconnect # Required for Zerodha data source
+plotly
